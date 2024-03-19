@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iamvenkatgiri
-- 👀 I’m interested in cloud
-- 🌱 I’m currently learning cloud
+- 👀 I’m interested in cloud and devOps
+- 🌱 I’m currently on my path to become an expert in cloud
 - 💞️ I’m looking to collaborate on cloud projects.
-- 📫 How to reach me @svg_359
+- 📫 How to reach me: Instagram @svg_359
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: None
 
